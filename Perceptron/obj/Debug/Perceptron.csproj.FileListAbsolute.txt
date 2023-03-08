@@ -1,0 +1,11 @@
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.AssemblyReference.cache
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Johniel\Desktop\Local Programs\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
